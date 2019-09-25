@@ -10,13 +10,6 @@ git push -u origin master
 
 
 
-rem --- Commits Adicionais
-git add .
-git commit -m "Versão 2 com controle de data"
-git push -u origin master
-
-
-
 
 
 
